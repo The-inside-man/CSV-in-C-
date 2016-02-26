@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////
-//	Name		:		Jacob Brown								//			
-//  Title		:		README - Example CSV Code c++			//
+//	Name		:		Jacob Brown								                      //			
+//  Title		:		README - Example CSV Code c++		  	            //
 //////////////////////////////////////////////////////////////////
 
 To run the sample code you need to open terminal and go to the directory where
